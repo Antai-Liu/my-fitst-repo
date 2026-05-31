@@ -1,2 +1,2 @@
-# my-fitst-repo
-Just for knowing the process
+# my fitst reopo
+Hellow GitHub! This is my first repository
